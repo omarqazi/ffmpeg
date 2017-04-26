@@ -9,3 +9,5 @@ Running ffmpeg commands using this image is easy! Try this:
 ```
 docker run omarqazi/ffmpeg --help # Or whatever arguments you need	
 ````
+
+force update
