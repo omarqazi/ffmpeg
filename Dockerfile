@@ -1,4 +1,4 @@
-FROM          golang
+FROM          golang:latest
 MAINTAINER    Omar Qazi <omar@smick.co>
 RUN echo "deb http://www.deb-multimedia.org jessie main non-free" >> /etc/apt/sources.list
 RUN apt-get update
